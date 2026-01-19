@@ -11,3 +11,4 @@ def sumar(*args):
 # Llamamos a la funcion sumar
 resultado = sumar(3.7,1)
 print(resultado)
+
